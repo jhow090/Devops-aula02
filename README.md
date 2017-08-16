@@ -1,5 +1,6 @@
 # Devops-aula02
 
 Jim Carrey
-Morgan Freeman
+Adam Sandler
 Will Smith
+Daniel Radcliffe
